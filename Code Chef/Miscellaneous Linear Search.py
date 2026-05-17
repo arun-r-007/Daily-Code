@@ -18,6 +18,3 @@ for a, b in pairs:
         break
 
 print(flag)
-
-
-
