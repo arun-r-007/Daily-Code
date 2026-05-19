@@ -19,3 +19,7 @@ class Solution(object):
             dict1[nums[i]] = i
 
         return None
+
+
+
+        
