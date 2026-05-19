@@ -17,5 +17,4 @@ class Solution(object):
         
         return count <= 1
     
-
     
