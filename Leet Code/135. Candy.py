@@ -17,7 +17,3 @@ class Solution(object):
                 ls[i] = max(ls[i], ls[i+1] + 1)
 
         return sum(ls)
-    
-
-
-    
