@@ -19,4 +19,3 @@ for a, b in pairs:
 
 print(flag)
 
-
