@@ -17,4 +17,3 @@ class Solution(object):
 
         return ans if ans != float('inf') else -1
     
-    
