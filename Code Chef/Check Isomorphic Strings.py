@@ -22,3 +22,5 @@ def is_isomorphic(s, t):
             map_ts[c2] = c1
 
     return True
+
+
