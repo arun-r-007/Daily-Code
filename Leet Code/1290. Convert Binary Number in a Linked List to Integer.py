@@ -21,4 +21,3 @@ class Solution(object):
 
 
         return int(string,2)
-        
