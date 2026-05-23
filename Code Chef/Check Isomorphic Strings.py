@@ -23,4 +23,3 @@ def is_isomorphic(s, t):
 
     return True
 
-
