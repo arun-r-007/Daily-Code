@@ -43,3 +43,6 @@ while t:
     t -= 1
     expr = input()
     print(infix_to_postfix(expr))
+
+
+    
