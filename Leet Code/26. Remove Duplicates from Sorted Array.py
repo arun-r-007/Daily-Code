@@ -18,3 +18,6 @@ class Solution(object):
 #         nums[:] = set(nums)
 #         nums.sort()
 #         return len(nums)
+
+
+
