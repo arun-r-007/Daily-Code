@@ -19,4 +19,3 @@ class Solution(object):
 #         nums.sort()
 #         return len(nums)
 
-
