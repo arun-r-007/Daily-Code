@@ -8,4 +8,3 @@ def findLargestOddSubstring(num):
              return num[:i+1]
              
     return -1
-
