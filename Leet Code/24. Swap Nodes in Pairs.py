@@ -19,3 +19,6 @@ class Solution(object):
             head = first.next
 
         return dummy.next
+
+
+        
