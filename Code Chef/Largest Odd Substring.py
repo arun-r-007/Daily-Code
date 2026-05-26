@@ -9,4 +9,3 @@ def findLargestOddSubstring(num):
              
     return -1
 
-
