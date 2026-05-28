@@ -15,3 +15,6 @@ class Solution:
                     cost += b[i]
                 
         return cost
+    
+
+    
