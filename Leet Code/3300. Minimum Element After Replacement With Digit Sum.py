@@ -11,4 +11,3 @@ class Solution(object):
             result.append(a)
 
         return min(result)
-    
