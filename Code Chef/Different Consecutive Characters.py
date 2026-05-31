@@ -14,5 +14,4 @@ while t:
     print(count)
     
     t -= 1
-
     
