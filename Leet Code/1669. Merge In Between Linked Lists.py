@@ -31,5 +31,4 @@ class Solution(object):
         return list1
 
 
-
         
