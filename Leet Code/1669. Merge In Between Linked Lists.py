@@ -29,5 +29,4 @@ class Solution(object):
         tail.next = curr
 
         return list1
-
         
