@@ -54,4 +54,3 @@ if __name__ == "__main__":
         linked_list.insert_after_k(a, i)
     linked_list.insert_after_k(x, k)
     linked_list.print_values()
-
