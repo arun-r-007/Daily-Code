@@ -18,5 +18,4 @@ class Solution(object):
                 
         return low
     
-
     
