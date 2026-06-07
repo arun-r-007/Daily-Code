@@ -56,4 +56,3 @@ if __name__ == "__main__":
     linked_list.print_values()
 
 
-
